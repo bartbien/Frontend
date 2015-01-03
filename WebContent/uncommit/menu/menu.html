@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<style type="text/css">
+
+div.button{
+	border: solid 1px black;
+	margin: 10px;
+	width: 100px;
+	height: 20px;
+	text-align: center;
+}
+
+div.picture{
+	margin: 10px;
+}
+
+</style>
+
+<script type="text/javascript">
+
+var _pictureId;
+
+function open(pictureId) {
+	_pictureId = document.getElementById(elementId);
+	_pictureId.style.visibility = 'visible';
+}
+
+function close(pictureId) {
+	_pictureId.style.visibility = 'hidden';
+}
+
+</script>
+
+</head>
+<body>
+
+<div class="button" id="button" onmouseover="open('pictureId')" onmouseout="close('picture')">Over</div>
+
+<div id="textId"></div>
+
+<div class="picture" id="pictureId"><img src="pic.jpg" /></div>	
+
+</body>
+</html>

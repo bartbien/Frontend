@@ -1,0 +1,20 @@
+
+create database animals;
+
+CREATE TABLE animals ( animal_id MEDIUMINT(8) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+animal_type VARCHAR(25) NOT NULL,
+animal_name VARCHAR(25) NOT NULL 
+) ENGINE = MYISAM ;
+
+INSERT INTO `animals` (`animal_id`, `animal_type`, `animal_name`) VALUES
+(1, 'kookaburra', 'bruce'),
+(2, 'emu', 'bruce'),
+(3, 'goanna', 'bruce'),
+(4, 'dingo', 'bruce'),
+(5, 'kangaroo', 'bruce'),
+(6, 'wallaby', 'bruce'),
+(7, 'wombat', 'bruce'),
+(8, 'koala', 'bruce');
+
+
+http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html

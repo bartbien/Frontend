@@ -9,8 +9,8 @@ $result = $x + $y;
 $str1 = "test1";
 $str2 = " test2";
 
-$str3 .= $str1;
-$str3 .= $str2;
+//$str3 .= $str1;
+//$str3 .= $str2;
 
 echo "<h2>$txt1</h2>";
 echo "Study PHP at $txt2<br>";

@@ -8,5 +8,7 @@ reset($arr);
 
 foreach ($arr as $value) {
     echo "Value: $value<br />\n";
+
+
+
 }
-?>

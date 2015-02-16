@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script type="text/javascript" async="" src="./Panel Klienta - nazwa.pl_files/ga.js"></script>
+    <script type="text/javascript" src="df1b8e426deee38e5f43ad9f70f13039.js"></script>
+    <script src="./Panel Klienta - nazwa.pl_files/AutologinLinkToFormTransformer.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="./Panel Klienta - nazwa.pl_files/pk_nowe.css">
+    <script type="text/javascript" src="./Panel Klienta - nazwa.pl_files/gaStatController.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div class="toolmenubutton">
+    <a target="_self" href="https://panel.nazwa.pl/PanelKlienta.html" class="konto"
+       title="Panel Klienta nazwa.pl"><span>Panel Klienta</span></a>
+</div>
+<div id="toolmenubutton" class="toolmenubutton">
+    <a href="https://panel.nazwa.pl/#toolmenu" id="zu" style="cursor: default;" onclick="return false;"
+       class="narzedzia" title="Narzędzia"><span>Narzędzia</span></a>
+
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#toolmenubutton').mouseenter(function () {
+            $(this).addClass('active');
+            $(this).append('<ul id="toolmenu" class="toolmenu"><li>' +
+            '<a href="https://poczta.nazwa.pl/" target="_blank" title="Active.office" ' +
+            'class="activemail" onclick="_gaq.push([\'_trackEvent\', \'poczta.nazwa.pl\', \'Menu narzędzi\']);">' +
+            '<strong>Active.office</strong>zarządzanie pocztą</a></li><li><a href="https://admin.nazwa.pl/" ' +
+            'target="_blank" title="Active.admin" class="activeadmin"onclick="_gaq.push([\'_trackEvent\', \'admin.nazwa.pl\', \'Menu narzędzi\']);">' +
+            '<strong>Active.admin</strong>zarządzanie serwerem</a></li>' +
+            '<li><a href="https://webftp.nazwa.pl/" target="_blank" title="Active.FTP" class="activeftp" ' +
+            'onclick="_gaq.push([\'_trackEvent\', \'webftp.nazwa.pl\', \'Menu narzędzi\']);">' +
+            '<strong>Active.FTP</strong>zarządzanie serwerem FTP</a></li>' +
+            '<li><a href="https://strona.nazwa.pl/" target="_blank" title="Active.WWW" class="activecms" onclick="_gaq.push([\'_trackEvent\', \'strona.nazwa.pl\', \'Menu narzędzi\']);">' +
+            '<strong>Active.WWW</strong>zarządzanie treścią Strony</a></li><li><a href="https://kreator.nazwa.pl/" target="_blank" title="Kreator WWW" class="kreatorwww" onclick="_gaq.push([\'_trackEvent\', \'kreator.nazwa.pl\', \'Menu narzędzi\']);"><strong>Kreator WWW</strong>tworzenie stron</a></li><li><a href="https://sklep.nazwa.pl/" target="_blank" title="Sklepicom" class="sklepicom" onclick="_gaq.push([\'_trackEvent\', \'sklep.nazwa.pl\', \'Menu narzędzi\']);"><strong>Sklepicom</strong>Panel zarządzania sklepem</a></li><li><a href="https://faktury.nazwa.pl/" target="_blank" title="Active.invoice" class="activeinvoice" onclick="_gaq.push([\'_trackEvent\', \'faktury.nazwa.pl\', \'Menu narzędzi\']);"><strong>Active.invoice</strong>fakturowanie online</a></li><li><a href="https://galeria.nazwa.pl/" target="_blank" title="Active.photo" class="activephoto" onclick="_gaq.push([\'_trackEvent\', \'galeria.nazwa.pl\', \'Menu narzędzi\']);"><strong>Active.photo</strong>tworzenie galerii zdjęć</a></li><li><a href="https://blog.nazwa.pl/" target="_blank" title="Active.blog" class="activeblog" onclick="_gaq.push([\'_trackEvent\', \'blog.nazwa.pl\', \'Menu narzędzi\']);"><strong>Active.blog</strong>Twój dziennik w Sieci</a></li><li><a href="https://stats.nazwa.pl/" target="_blank" title="Active.stats" class="activestats" onclick="_gaq.push([\'_trackEvent\', \'stats.nazwa.pl\', \'Menu narzędzi\']);"><strong>Active.stats</strong>Statystyki Twojej strony</a></li></ul>');
+            $('#toolmenu').show();
+        });
+        $('#toolmenubutton').mouseleave(function () {
+            $(this).removeClass('active');
+            $('#toolmenu').hide();
+            $('.toolmenu').remove();
+        });
+    });
+</script>
+
+
+</body>
+</html>

@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab31804-a051-4537-87d8-5d7cbfbe0fe3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/database/Database.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/database/Database.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/webSocket/WebSocket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/webSocket/WebSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/worker/Worker.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/worker/Worker.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/lib.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/elementary/onmouse/onMouseOver2/onMouseOver.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\baseBrowserLibrary.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/baseBrowserLibrary.js" />
-      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browserWindow.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/browserWindow.js" />
-      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\main.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/main.js" />
-      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\system.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/AJAX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/DOMCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMXPath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/E4X.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/EcmaScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/HTML5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/WebGL.js" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\idea-libs\lib.d.ts" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Frontend.iws" />
@@ -44,7 +43,108 @@
     <favorites_list name="Frontend" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="DHTML.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="16.845646" vertical-offset="10527" max-vertical-offset="81617">
+              <caret line="1518" column="40" selection-start-line="1518" selection-start-column="23" selection-end-line="1518" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nashorn.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1036" max-vertical-offset="1972">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.413794" vertical-offset="12397" max-vertical-offset="15946">
+              <caret line="747" column="11" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebGL.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/WebGL.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="45729" max-vertical-offset="46665">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DOMEvents.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.586206" vertical-offset="7947" max-vertical-offset="16405">
+              <caret line="506" column="32" selection-start-line="506" selection-start-column="32" selection-end-line="506" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DOMTraversalAndRange.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0" vertical-offset="29" max-vertical-offset="4029">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AJAX.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="2057">
+              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DOMCore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.7586207" vertical-offset="0" max-vertical-offset="18700">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DOMCore.js" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.172414" vertical-offset="12414" max-vertical-offset="18700">
+              <caret line="751" column="3" selection-start-line="751" selection-start-column="3" selection-end-line="751" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EcmaScript5.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3349">
+              <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,6 +162,7 @@
         <option value="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js" />
         <option value="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/lib.d.ts" />
         <option value="$PROJECT_DIR$/js/basics/ss/ss.html" />
+        <option value="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" />
       </list>
     </option>
   </component>
@@ -74,9 +175,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="20" />
-    <option name="width" value="1860" />
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -168,7 +269,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jsObjects_DOM_API" />
+              <option name="myItemId" value="tab-component" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,7 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="browser-engine-impl" />
+              <option name="myItemId" value="idea-libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -212,11 +313,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="browser-engine-impl" />
+              <option name="myItemId" value="eclipse-libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="geco" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsObjects_DOM_API" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -236,16 +351,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\idea-libs" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\database" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\webSocket" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\workers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\idea-libs\backup" />
       <recent name="C:\Projects\php\Frontend\js\elementary\onmouse\onMouseOver2" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\webkit" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl" />
-      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\eclipse-libs" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.test">
@@ -316,8 +432,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="20" width="1860" height="1096" extended-state="0" />
-    <editor active="false" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -325,7 +441,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25555557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25358325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33085898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -439,17 +555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/baseBrowserLibrary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="91766">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/DOMCore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1271367" vertical-offset="17543" max-vertical-offset="18700">
           <caret line="1094" column="0" selection-start-line="1094" selection-start-column="0" selection-end-line="1094" selection-end-column="0" />
@@ -457,29 +563,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.346153" vertical-offset="0" max-vertical-offset="15946">
-          <caret line="900" column="3" selection-start-line="900" selection-start-column="3" selection-end-line="900" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9636752" vertical-offset="1053" max-vertical-offset="2057">
           <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/lib.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="52261" max-vertical-offset="241570">
-          <caret line="3081" column="32" selection-start-line="3081" selection-start-column="32" selection-end-line="3081" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,6 +626,196 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14945056" vertical-offset="0" max-vertical-offset="910">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tab-component/tab1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tab-component/tab2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1830" max-vertical-offset="15946">
+          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.75" vertical-offset="504" max-vertical-offset="15946">
+          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/E4X.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.508547" vertical-offset="0" max-vertical-offset="5372">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33261105" vertical-offset="238577" max-vertical-offset="241349">
+          <caret line="14065" column="4" selection-start-line="14065" selection-start-column="4" selection-end-line="14065" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tab-component/tab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.923077" vertical-offset="2133" max-vertical-offset="3043">
+          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41773504" vertical-offset="306" max-vertical-offset="24871">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6088841" vertical-offset="16540" max-vertical-offset="241570">
+          <caret line="1006" column="4" selection-start-line="1006" selection-start-column="4" selection-end-line="1006" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/baseBrowserLibrary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7627301" vertical-offset="2754" max-vertical-offset="91613">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/browserWindow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10608">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16093" max-vertical-offset="81617">
+          <caret line="968" column="30" selection-start-line="968" selection-start-column="30" selection-end-line="968" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="2057">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="37854" max-vertical-offset="40001">
+          <caret line="2272" column="13" selection-start-line="2272" selection-start-column="13" selection-end-line="2272" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3349">
+          <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/WebGL.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45729" max-vertical-offset="46665">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1972">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.413794" vertical-offset="12397" max-vertical-offset="15946">
+          <caret line="747" column="11" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.172414" vertical-offset="12414" max-vertical-offset="18700">
+          <caret line="751" column="3" selection-start-line="751" selection-start-column="3" selection-end-line="751" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.586206" vertical-offset="7947" max-vertical-offset="16405">
+          <caret line="506" column="32" selection-start-line="506" selection-start-column="32" selection-end-line="506" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0" vertical-offset="29" max-vertical-offset="4029">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="2057">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7586207" vertical-offset="0" max-vertical-offset="18700">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="16.845646" vertical-offset="10527" max-vertical-offset="81617">
+          <caret line="1518" column="40" selection-start-line="1518" selection-start-column="23" selection-end-line="1518" selection-end-column="40" />
           <folding />
         </state>
       </provider>

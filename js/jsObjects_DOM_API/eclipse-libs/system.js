@@ -19,61 +19,61 @@
  */
 function Object(){};
  /**
-  * function toString() 
+  * function toString()
   * @memberOf   Object
   * @returns {String}
   * @see     Object
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Object.prototype.toString = function(){return "";};
  /**
-  * function toLocaleString() 
+  * function toLocaleString()
   * @memberOf   Object
   * @returns {String}
   * @see     Object
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Object.prototype.toLocaleString = function(){return "";};
  /**
-  * function valueOf() 
+  * function valueOf()
   * @memberOf   Object
   * @returns {Object}
   * @see     Object
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Object.prototype.valueOf = function(){return new Object();};
  /**
-  * function hasOwnProperty(name) 
+  * function hasOwnProperty(name)
   * @memberOf   Object
   * @param   {String} name
   * @returns {Boolean}
   * @see     Object
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Object.prototype.hasOwnProperty = function(name){return true;};
  /**
-  * function isPrototypeOf(o) 
+  * function isPrototypeOf(o)
   * @memberOf   Object
   * @param   {Object} o
   * @returns {Boolean}
   * @see     Object
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Object.prototype.isPrototypeOf = function(o){return true;};
  /**
-  * function propertyIsEnumerable(name) 
+  * function propertyIsEnumerable(name)
   * @memberOf   Object
   * @param   {Object} name
   * @returns {Boolean}
   * @see     Object
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Object.prototype.propertyIsEnumerable = function(name){return true;};
 /**
   * Property constructor
@@ -81,7 +81,7 @@ Object.prototype.propertyIsEnumerable = function(name){return true;};
   * @memberOf Object
   * @since Standard ECMA-262 3rd. Edition
   * @since Level 2 Document Object Model Core Definition.
- */ 
+ */
 Object.prototype.constructor = new Function();
 
 /**
@@ -100,180 +100,180 @@ String.prototype = new Object();
   * @returns {String}
   * @static
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.fromCharCode = function(charCode){return "";};
 /**
   * Property length
   * @type    Number
   * @memberOf   String
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.length = 1;
  /**
-  * function charAt(position) 
+  * function charAt(position)
   * @memberOf   String
   * @param   {Number} position
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.charAt = function(position){return "";};
  /**
-  * function charCodeAt(position) 
+  * function charCodeAt(position)
   * @memberOf   String
   * @param   {Number} position
   * @returns {Number}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.charCodeAt = function(position){return 0;};
  /**
-  * function concat(value1, ...) 
+  * function concat(value1, ...)
   * @memberOf   String
   * @param {String} value
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.concat = function(value){return "";};
  /**
-  * function indexOf(searchString, startPosition) 
+  * function indexOf(searchString, startPosition)
   * @memberOf   String
   * @param   {String} searchString
   * @param   {Number} startPosition
   * @returns {Number}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.indexOf = function(searchString, startPosition){return 1;};
  /**
-  * function lastIndexOf(searchString, startPosition) 
+  * function lastIndexOf(searchString, startPosition)
   * @memberOf   String
   * @param   {String} searchString
   * @param   {Number} startPosition
   * @returns {Number}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.lastIndexOf = function(searchString, startPosition){return 1;};
  /**
-  * function localeCompare(otherString) 
+  * function localeCompare(otherString)
   * @memberOf   String
   * @param   {String} otherString
   * @returns {Number}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.localeCompare = function(otherString){return 0;};
  /**
-  * function match(regexp) 
+  * function match(regexp)
   * @memberOf   String
   * @param   {RegExp} regexp
   * @returns {Array}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.match = function(regexp){return [];};
  /**
-  * function replace(regexp, replaceValue) 
+  * function replace(regexp, replaceValue)
   * @memberOf   String
   * @param   {RegExp} regexp
   * @param   {String} replaceValue
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.replace = function(regexp, replaceValue){return "";};
  /**
-  * function search(regexp) 
+  * function search(regexp)
   * @memberOf   String
   * @param   {RegExp} regexp
   * @returns {Number}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.search = function(regexp){return 1;};
  /**
-  * function slice(start, end) 
+  * function slice(start, end)
   * @memberOf   String
   * @param   {Number} start
   * @param   {Number} end
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.slice = function(start, end){return "";};
  /**
-  * function split(separator, limit) 
+  * function split(separator, limit)
   * @memberOf   String
   * @param   {String} separator
   * @param   {Number} limit
   * @returns {Array}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.split = function(separator, limit){return [];};
  /**
-  * function substring(start, end) 
+  * function substring(start, end)
   * @memberOf   String
   * @param   {Number} start
   * @param   {Number} end
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.substring = function(start, end){return "";};
  /**
-  * function toLowerCase() 
+  * function toLowerCase()
   * @memberOf   String
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.toLowerCase = function(){return "";};
  /**
-  * function toLocaleLowerCase() 
+  * function toLocaleLowerCase()
   * @memberOf   String
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.toLocaleLowerCase = function(){return "";};
  /**
-  * function toUpperCase() 
+  * function toUpperCase()
   * @memberOf   String
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.toUpperCase= function (){return "";};
  /**
-  * function toLocaleUpperCase() 
+  * function toLocaleUpperCase()
   * @memberOf   String
   * @returns {String}
   * @see     String
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 String.prototype.toLocaleUpperCase = function(){return "";};
 
 /**
@@ -318,7 +318,7 @@ Number.NaN = 0;
   * @memberOf Number
   * @static
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Number.NEGATIVE_INFINITY = 0;
 /**
@@ -327,7 +327,7 @@ Number.NEGATIVE_INFINITY = 0;
   * @memberOf Number
   * @static
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Number.POSITIVE_INFINITY = 0;
 /**
@@ -363,7 +363,7 @@ Number.prototype.toPrecision = function(fractionDigits){return "";};
  * @constructor
  * @extends Object
  * @since Standard ECMA-262 3rd. Edition
- * @since Level 2 Document Object Model Core Definition. 
+ * @since Level 2 Document Object Model Core Definition.
 */
 function Boolean(){};
 Boolean.prototype = new Object();
@@ -382,9 +382,9 @@ Array.prototype = new Object();
   * @type    Number
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Array.prototype.length = 1;
 /**
   * function concat(args)
@@ -392,9 +392,9 @@ Array.prototype.length = 1;
   * @returns {Array}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Array.prototype.concat = function(args){return [];};
 /**
   * function join(seperator)
@@ -402,45 +402,45 @@ Array.prototype.concat = function(args){return [];};
   * @returns {Array}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Array.prototype.join = function(seperator){return [];};
 /**
   * function pop()
   * @returns {Object}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
- */  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Array.prototype.pop = function(){return new Object();};
 /**
   * function push(args)
   * @param {Array} args
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
- */  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Array.prototype.push = function(args){};
 /**
   * function reverse()
   * @returns {Array}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Array.prototype.reverse = function(){return [];};
 /**
   * function shift()
   * @returns {Object}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
- */  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Array.prototype.shift = function(){return new Object();};
 /**
   * function slice(start, end)
@@ -449,9 +449,9 @@ Array.prototype.shift = function(){return new Object();};
   * @returns {Array}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
- */  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Array.prototype.slice = function(start, end){return [];};
 /**
   * function sort(funct)
@@ -459,9 +459,9 @@ Array.prototype.slice = function(start, end){return [];};
   * @returns {Array}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
- */  
+ */
 Array.prototype.sort = function(funct){return [];};
 /**
   * function splice(start, deletecount, items)
@@ -471,9 +471,9 @@ Array.prototype.sort = function(funct){return [];};
   * @returns {Array}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
- */  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Array.prototype.splice = function(start, deletecount, items){return [];};
 /**
   * function unshift(items)
@@ -481,9 +481,9 @@ Array.prototype.splice = function(start, deletecount, items){return [];};
   * @returns {Number}
   * @memberOf   Array
   * @see     Array
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
- */  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Array.prototype.unshift = function(values){return 1;};
 
 /**
@@ -500,25 +500,25 @@ Function.prototype = new Object();
  * @param {Object} thisObject
  * @param {Array} argArray
  * @returns {Object}
- * @since   Standard ECMA-262 3rd. Edition 
+ * @since   Standard ECMA-262 3rd. Edition
  * @since   Level 2 Document Object Model Core Definition.
- */ 
+ */
 Function.prototype.apply = function(thisArg, argArray){return new Object();};
 /**
   * function call (thisObject, args)
   * @param {Object} thisObject
   * @param {Object} args
   * @returns {Object}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
- */ 
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Function.prototype.call = function(thisObject, args){return new Object();};
 /**
   * property length
   * @type    Number
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
- */ 
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
+ */
 Function.prototype.length = 0;
 
 /**
@@ -527,7 +527,7 @@ Function.prototype.length = 0;
   * @param {String} s
   * @extends Object
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 function Date(s){};
 Date.prototype = new Object();
@@ -537,7 +537,7 @@ Date.prototype = new Object();
  * @param {Number} hour
  * @param {Number} min
  * @param {Number} sec
- * @param {Number} ms  
+ * @param {Number} ms
  * @returns {Number}
  * @static
  * @since Standard ECMA-262 3rd. Edition
@@ -575,7 +575,7 @@ Date.prototype.toTimeString = function(){return "";};
   * @memberOf Date
   * @returns {String}
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.toLocaleString = function(){return "";};
 /**
@@ -615,7 +615,7 @@ Date.prototype.getFullYear = function(){return 0;};
   * @memberOf Date
   * @returns {Number}
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition.  
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.getTime = function(){return 0;};
 /**
@@ -623,7 +623,7 @@ Date.prototype.getTime = function(){return 0;};
   * @memberOf Date
   * @returns {Number}
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.getUTCFullYear = function(){return 0;};
 /**
@@ -663,7 +663,7 @@ Date.prototype.getUTCDate = function(){return 0;};
   * @memberOf Date
   * @returns {Number}
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.getDay = function(){return 0;};
 /**
@@ -673,7 +673,7 @@ Date.prototype.getDay = function(){return 0;};
   * @returns {Number}
   * @since Standard ECMA-262 3rd. Edition
   * @since Level 2 Document Object Model Core Definition.
-     
+
  */
 Date.prototype.getUTCDay=function(){return 0;};
 /**
@@ -681,7 +681,7 @@ Date.prototype.getUTCDay=function(){return 0;};
   * @memberOf Date
   * @returns {Number}
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.getHours = function(){return 0;};
 /**
@@ -870,7 +870,7 @@ Date.prototype.setUTCDate = function(date){return 0;};
   * @param {Number} date
   * @param {Number} month
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.setMonth = function(month,date){return 1;};
 /**
@@ -891,7 +891,7 @@ Date.prototype.setUTCMonth = function(month,date){return 1;};
   * @param {Number} month
   * @param {Number} year
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Date.prototype.setFullYear = function(year, month,date){return 0;};
 /**
@@ -916,14 +916,14 @@ Date.prototype.toUTCString = function(){return "";};
 
 /**
   * Property NaN
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 var NaN=0;
 /**
   * Property Infinity
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 var Infinity=0;
 /**
@@ -931,8 +931,8 @@ var Infinity=0;
   * @param {String} s
   * @type Object
   * @returns {Object}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 function eval(s){return new Object();};
 
@@ -955,8 +955,8 @@ var undefined=null;
   * @param {Number} radix
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 function parseInt(s,radix){return 0;};
 /**
@@ -964,8 +964,8 @@ function parseInt(s,radix){return 0;};
   * @param {String} s
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 function parseFloat(s){return 0;};
 /**
@@ -973,8 +973,8 @@ function parseFloat(s){return 0;};
  * @param {String} s
  * @type String
  * @returns {String}
- * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.   
+ * @since   Standard ECMA-262 3rd. Edition
+ * @since   Level 2 Document Object Model Core Definition.
 */
 function escape(s){return "";};
 /**
@@ -982,8 +982,8 @@ function escape(s){return "";};
  * @param {String} s
  * @type String
  * @returns {String}
- * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.   
+ * @since   Standard ECMA-262 3rd. Edition
+ * @since   Level 2 Document Object Model Core Definition.
 */
 function unescape(s){return "";};
 /**
@@ -991,8 +991,8 @@ function unescape(s){return "";};
   * @param {String} number
   * @type Boolean
   * @returns {Boolean}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 function isNaN(number){return false;};
 /**
@@ -1000,8 +1000,8 @@ function isNaN(number){return false;};
   * @param {String} number
   * @type Boolean
   * @returns {Boolean}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 function isFinite(number){return false;};
 /**
@@ -1009,16 +1009,16 @@ function isFinite(number){return false;};
  * @param {String} encodedURI
  * @type String
  * @returns {String}
- * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.  
+ * @since   Standard ECMA-262 3rd. Edition
+ * @since   Level 2 Document Object Model Core Definition.
 */
 function decodeURI(encodedURI){return "";};
 /**
  * @param {String} uriComponent
  * @type String
  * @returns {String}
- * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.  
+ * @since   Standard ECMA-262 3rd. Edition
+ * @since   Level 2 Document Object Model Core Definition.
 */
 function decodeURIComponent(uriComponent){return "";};
 /**
@@ -1026,8 +1026,8 @@ function decodeURIComponent(uriComponent){return "";};
  * @param {String} uriComponent
  * @type String
  * @returns {String}
- * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.    
+ * @since   Standard ECMA-262 3rd. Edition
+ * @since   Level 2 Document Object Model Core Definition.
 */
 function encodeURIComponent(uriComponent){return "";};
 
@@ -1036,8 +1036,8 @@ function encodeURIComponent(uriComponent){return "";};
  * @param {String} URI
  * @type String
  * @returns {String}
- * @since   Standard ECMA-262 3rd. Edition 
- * @since   Level 2 Document Object Model Core Definition.    
+ * @since   Standard ECMA-262 3rd. Edition
+ * @since   Level 2 Document Object Model Core Definition.
 */
 function encodeURI(URI){return "";};
 
@@ -1048,64 +1048,64 @@ function encodeURI(URI){return "";};
   * @memberOf Math
   * @since Standard ECMA-262 3rd. Edition
   * @since Level 2 Document Object Model Core Definition.
-     
+
  */
 function Math(){};
 Math.prototype=new Object();
 /**
   * Property E
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.E=0;
 /**
   * Property LN10
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.LN10=0;
 /**
   * Property LN2
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
  */
 Math.LN2=0;
 /**
   * Property LOG2E
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.LOG2E=0;
 /**
   * Property LOG10E
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition. 
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.LOG10E=0;
 /**
   * Property PI
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.PI=0;
 /**
   * Property SQRT1_2
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.SQRT1_2=0;
 /**
   * Property SQRT2
   * @memberOf Math
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition. 
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.SQRT2=0;
 /**
@@ -1114,8 +1114,8 @@ Math.SQRT2=0;
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.abs=function(x){return 0;};
 /**
@@ -1124,7 +1124,7 @@ Math.abs=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
  */
 Math.acos=function(x){return 0;};
@@ -1134,8 +1134,8 @@ Math.acos=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.asin=function(x){return 0;};
 /**
@@ -1144,7 +1144,7 @@ Math.asin=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
+  * @since   Standard ECMA-262 3rd. Edition
   * @since   Level 2 Document Object Model Core Definition.
  */
 Math.atan=function(x){return 0;};
@@ -1155,8 +1155,8 @@ Math.atan=function(x){return 0;};
   * @param {Number} y
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.atan2=function(x,y){return 0;};
 /**
@@ -1165,8 +1165,8 @@ Math.atan2=function(x,y){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.ceil=function(x){return 0;};
 /**
@@ -1175,8 +1175,8 @@ Math.ceil=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.cos=function(x){return 0;};
 /**
@@ -1185,8 +1185,8 @@ Math.cos=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition. 
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.exp=function(x){return 0;};
 /**
@@ -1195,8 +1195,8 @@ Math.exp=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.floor=function(x){return 0;};
 /**
@@ -1205,8 +1205,8 @@ Math.floor=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.log=function(x){return 0;};
 /**
@@ -1215,8 +1215,8 @@ Math.log=function(x){return 0;};
   * @param {Number} args
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.  
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.max=function(args){return 0;};
 /**
@@ -1225,8 +1225,8 @@ Math.max=function(args){return 0;};
   * @param {Number} args
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.min=function(args){return 0;};
 /**
@@ -1236,8 +1236,8 @@ Math.min=function(args){return 0;};
   * @param {Number} y
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.pow=function(x,y){return 0;};
 /**
@@ -1245,8 +1245,8 @@ Math.pow=function(x,y){return 0;};
   * @memberOf Math
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.random=function(){return 0;};
 /**
@@ -1255,8 +1255,8 @@ Math.random=function(){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.   
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.round=function(x){return 0;};
 /**
@@ -1265,8 +1265,8 @@ Math.round=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.sin=function(x){return 0;};
 /**
@@ -1275,8 +1275,8 @@ Math.sin=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.     
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.sqrt=function(x){return 0;};
 /**
@@ -1285,8 +1285,8 @@ Math.sqrt=function(x){return 0;};
   * @param {Number} x
   * @type Number
   * @returns {Number}
-  * @since   Standard ECMA-262 3rd. Edition 
-  * @since   Level 2 Document Object Model Core Definition.    
+  * @since   Standard ECMA-262 3rd. Edition
+  * @since   Level 2 Document Object Model Core Definition.
  */
 Math.tan=function(x){return 0;};
 /**
@@ -1316,7 +1316,7 @@ RegExp.prototype.exec=function(string){return [];};
   * @type Boolean
   * @memberOf RegExp
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition.  
+  * @since Level 2 Document Object Model Core Definition.
  */
 RegExp.prototype.test=function(string){return false;};
 /**
@@ -1324,7 +1324,7 @@ RegExp.prototype.test=function(string){return false;};
   * @type String
   * @memberOf RegExp
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 RegExp.prototype.source="";
 /**
@@ -1341,7 +1341,7 @@ RegExp.prototype.global=false;
   * @type Boolean
   * @memberOf RegExp
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 RegExp.prototype.ignoreCase=false;
 /**
@@ -1367,7 +1367,7 @@ RegExp.prototype.lastIndex=0;
   * @param {String} message
   * @memberOf Error
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 function Error(message){};
 Error.prototype=new Object();
@@ -1376,7 +1376,7 @@ Error.prototype=new Object();
   * @type String
   * @memberOf Error
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Error.prototype.name="";
 /**
@@ -1384,7 +1384,7 @@ Error.prototype.name="";
   * @type String
   * @memberOf Error
   * @since Standard ECMA-262 3rd. Edition
-  * @since Level 2 Document Object Model Core Definition. 
+  * @since Level 2 Document Object Model Core Definition.
  */
 Error.prototype.message="";
 /**

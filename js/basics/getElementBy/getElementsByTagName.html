@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<script>
+
+    window.InnerBody = function(){
+
+        var body = document.getElementsByTagName("body");
+
+        body[0].innerHTML = '<p>test</p>';
+    };
+
+    new InnerBody();
+
+</script>
+
+</body>
+</html>

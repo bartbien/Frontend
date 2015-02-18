@@ -1,0 +1,42 @@
+<!--http://viralpatel.net/blogs/dynamic-combobox-listbox-drop-down-using-javascript/-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+
+<fieldset>
+    <legend>Combo box</legend>
+    Add to Combo: <input type="text" name="txtCombo" id="txtCombo">
+    <input type="button" value="Add" onclick="addCombo()">
+    <br>
+    Combobox: <select name="combo" id="combo"></select>
+</fieldset>
+
+<script>
+
+
+
+    function addCombo() {
+        var textb = document.getElementById("txtCombo");
+        var combo = document.getElementById("combo");
+
+        var option = document.createElement("option");
+        option.text = textb.value;
+        option.value = textb.value;
+        try {
+            combo.add(option, null); //Standard
+        }catch(error) {
+            combo.add(option); // IE only
+        }
+        textb.value = "";
+    }
+
+</script>
+
+</body>
+</html>

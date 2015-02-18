@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+    <script>
+
+        var Test3 = function()
+        {
+
+            this.add = function(x, y)
+            {
+                console.log(x + y);
+            };
+
+        };
+
+        Test3.prototype.sub = function(x, y)
+        {
+            console.log(x - y);
+        };
+
+        var Test4 = function()
+        {
+
+        };
+
+        Test4.prototype = Object.create(Test3.prototype);
+        Test4.prototype.constructor = Test3;
+
+        new Test3().add(2, 4);
+        new Test4().sub(8, 10);
+
+
+
+
+    </script>
+
+</body>
+</html>

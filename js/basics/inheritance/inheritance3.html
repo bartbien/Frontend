@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+    <script>
+        // --------------------
+        var Test1 = function(x, y)
+        {
+            console.log('test1');
+
+            this.x;
+            this.y;
+        };
+
+        Test1.prototype.add = function()
+        {
+            var sum = this.x + this.y;
+            console.log(sum);
+        };
+
+        Test1.prototype.add = function(x, y)
+        {
+            var sum = x + y;
+            console.log(sum);
+        };
+
+        // --------------------
+        function Test2()
+        {
+            console.log('test2');
+        };
+
+        Test2.prototype = Object.create(Test1.prototype);
+
+        // --------------------
+        var test1 = new Test1();
+        test1.add(2, 2);
+
+        var test2 = new Test2();
+        test2.add(5, 5);
+
+    </script>
+
+</body>
+</html>

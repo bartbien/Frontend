@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<script>
+
+    function MapTest()
+    {
+        _ = this;
+
+        var map = new Map();
+        map.set(1, 'map test value');
+
+        _.print = function()
+        {
+            console.log('test');
+            alert(map.get(1));
+        };
+    };
+
+
+    new MapTest().print();
+
+</script>
+</body>
+</html>

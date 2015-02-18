@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<div class="divClass"></div>
+<div class="divClass"></div>
+<div class="divClass"></div>
+
+<script>
+
+    window.ByClass = function()
+    {
+        var div = document.getElementsByClassName('divClass');
+
+        console.log( div.length);
+        alert(div.length);
+
+        for(var i = 0; i < div.length; i++)
+        {
+            div[i].innerHTML = '<p>ddd</p>';
+        }
+    };
+
+    new ByClass();
+
+</script>
+
+</body>
+</html>

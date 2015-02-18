@@ -2,23 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab31804-a051-4537-87d8-5d7cbfbe0fe3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/AJAX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/DOMCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMXPath.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/E4X.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/EcmaScript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/HTML5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/WebGL.js" />
-      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\idea-libs\lib.d.ts" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/widgets/combBox/test/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/widgets/combBox/sample/comboBox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/widgets/combBox/test/comboBox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basics/getElementBy/getElementByClass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basics/getElementBy/getElementById.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basics/getElementBy/getElementsByTagName.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basics/inheritance/inheritance3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basics/inheritance/inheritance4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/lib/jquery-1.11.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/lib/jquery-1.8.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery/lib/jquery-2.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/collection/jsMap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/widgets/rowTable/rowTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/basics/window/windowTests.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\1.js_w3school\1.JS Basic\JS Breaks Continue\index.html" afterPath="$PROJECT_DIR$/js/basics/loops/JS Breaks Continue/index.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\1.js_w3school\1.JS Basic\JS Breaks Continue\jslib.js" afterPath="$PROJECT_DIR$/js/basics/loops/JS Breaks Continue/jslib.js" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\1.js_w3school\1.JS Basic\JS Loop While\index.html" afterPath="$PROJECT_DIR$/js/basics/loops/JS Loop While/index.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\communicators\contacts.html" afterPath="$PROJECT_DIR$/js/basics/communicators/contacts.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\communicators\icq.png" afterPath="$PROJECT_DIR$/js/basics/communicators/icq.png" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\communicators\skype.png" afterPath="$PROJECT_DIR$/js/basics/communicators/skype.png" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\debug\consoleOutput.html" afterPath="$PROJECT_DIR$/js/basics/debug/consoleOutput.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\ajax\ajax1\ajax_info.txt" afterPath="$PROJECT_DIR$/js/basics/ajax/ajax1/ajax_info.txt" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\ajax\ajax1\example.html" afterPath="$PROJECT_DIR$/js/basics/ajax/ajax1/example.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\consoleLog\index.html" afterPath="$PROJECT_DIR$/js/basics/consoleLog/index.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\foreach\foreach.html" afterPath="$PROJECT_DIR$/js/basics/loops/foreach/foreach.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\getElementById\NewFile2.html" afterPath="$PROJECT_DIR$/js/basics/getElementBy/tests/NewFile2.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\getElementById\getElementById.html" afterPath="$PROJECT_DIR$/js/basics/getElementBy/tests/getElementById.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\getElementById\newFile.html" afterPath="$PROJECT_DIR$/js/basics/getElementBy/tests/newFile.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\hiddenVisible\hiddenVisible.html" afterPath="$PROJECT_DIR$/js/basics/hiddenVisible/hiddenVisible.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\hiddenVisible\pic.jpg" afterPath="$PROJECT_DIR$/js/basics/hiddenVisible/pic.jpg" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\inheritance\inherit1.html" afterPath="$PROJECT_DIR$/js/basics/inheritance/inherit1.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\inheritance\inherit2.html" afterPath="$PROJECT_DIR$/js/basics/inheritance/inherit2.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object.html" afterPath="$PROJECT_DIR$/js/basics/objects/object.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object2.html" afterPath="$PROJECT_DIR$/js/basics/objects/object2.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object3.html" afterPath="$PROJECT_DIR$/js/basics/objects/object3.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object4.html" afterPath="$PROJECT_DIR$/js/basics/objects/object4.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object5.html" afterPath="$PROJECT_DIR$/js/basics/objects/object5.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object6.html" afterPath="$PROJECT_DIR$/js/basics/objects/object6.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\objects\object_2_styles.html" afterPath="$PROJECT_DIR$/js/basics/objects/object_2_styles.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onClickChange\changeColors.html" afterPath="$PROJECT_DIR$/js/basics/onClickChange/changeColors.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onClickHidden\onClickFrame.html" afterPath="$PROJECT_DIR$/js/basics/onClickHidden/onClickFrame.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onClickHidden\onClickText.html" afterPath="$PROJECT_DIR$/js/basics/onClickHidden/onClickText.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onmouse\onMouseOver2\onMouseOver.html" afterPath="$PROJECT_DIR$/js/basics/onmouse/onMouseOver2/onMouseOver.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onmouse\onMouseOver\overOut.html" afterPath="$PROJECT_DIR$/js/basics/onmouse/onMouseOver/overOut.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onmouse\onMouseOver\pic.jpg" afterPath="$PROJECT_DIR$/js/basics/onmouse/onMouseOver/pic.jpg" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\onmouse\onMouseOver\pic2.jpg" afterPath="$PROJECT_DIR$/js/basics/onmouse/onMouseOver/pic2.jpg" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\random\random.html" afterPath="$PROJECT_DIR$/js/basics/random/random.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\staticc\staticc.html" afterPath="$PROJECT_DIR$/js/basics/staticc/staticc.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\time\jsTime.html" afterPath="$PROJECT_DIR$/js/basics/time/jsTime.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\time\jsTimeWithSec.html" afterPath="$PROJECT_DIR$/js/basics/time/jsTimeWithSec.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\webWorkers\demo_workers.js" afterPath="$PROJECT_DIR$/js/basics/webWorkers/demo_workers.js" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\webWorkers\worker.html" afterPath="$PROJECT_DIR$/js/basics/webWorkers/worker.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\window\openAndCloseWindow.html" afterPath="$PROJECT_DIR$/js/basics/window/openAndCloseWindow.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\window\windowOpenNewOne.html" afterPath="$PROJECT_DIR$/js/basics/window/windowOpenNewOne.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\window\windowRequestAnimationFrame.html" afterPath="$PROJECT_DIR$/js/basics/window/windowRequestAnimationFrame.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\elementary\window\windowRequestWithSleep.html" afterPath="$PROJECT_DIR$/js/basics/window/windowRequestWithSleep.html" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\gfx\js_webkit.PNG" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/gfx/js_webkit.PNG" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\database\Database.cpp" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/database/Database.cpp" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\database\Database.h" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/database/Database.h" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\webSocket\WebSocket.cpp" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/webSocket/WebSocket.cpp" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\webSocket\WebSocket.h" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/webSocket/WebSocket.h" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\worker\Worker.cpp" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/worker/Worker.cpp" />
+      <change type="MOVED" beforePath="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\worker\Worker.h" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/worker/Worker.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/NewFile.html" afterPath="$PROJECT_DIR$/js/NewFile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts" afterPath="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Frontend.iws" />
@@ -44,101 +92,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DHTML.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js">
+      <file leaf-file-name="comboBox.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/widgets/combBox/test/comboBox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="16.845646" vertical-offset="10527" max-vertical-offset="81617">
-              <caret line="1518" column="40" selection-start-line="1518" selection-start-column="23" selection-end-line="1518" selection-end-column="40" />
+            <state vertical-scroll-proportion="-7.076923" vertical-offset="156" max-vertical-offset="1411">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nashorn.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js">
+      <file leaf-file-name="comboBox.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/widgets/combBox/sample/comboBox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1036" max-vertical-offset="1972">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.05743243" vertical-offset="0" max-vertical-offset="799">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js">
+      <file leaf-file-name="rowTable.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/widgets/rowTable/rowTable.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.413794" vertical-offset="12397" max-vertical-offset="15946">
-              <caret line="747" column="11" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebGL.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/WebGL.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45729" max-vertical-offset="46665">
-              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOMEvents.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.586206" vertical-offset="7947" max-vertical-offset="16405">
-              <caret line="506" column="32" selection-start-line="506" selection-start-column="32" selection-end-line="506" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOMTraversalAndRange.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0" vertical-offset="29" max-vertical-offset="4029">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AJAX.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="2057">
-              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOMCore.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7586207" vertical-offset="0" max-vertical-offset="18700">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOMCore.js" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.172414" vertical-offset="12414" max-vertical-offset="18700">
-              <caret line="751" column="3" selection-start-line="751" selection-start-column="3" selection-end-line="751" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EcmaScript5.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript5.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3349">
-              <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
+            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="1360">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -163,6 +141,22 @@
         <option value="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/lib.d.ts" />
         <option value="$PROJECT_DIR$/js/basics/ss/ss.html" />
         <option value="$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js" />
+        <option value="$PROJECT_DIR$/js/NewFile.html" />
+        <option value="$PROJECT_DIR$/jquery/comboBox/comboBox.html" />
+        <option value="$PROJECT_DIR$/js/elementary/window/windowTests.html" />
+        <option value="$PROJECT_DIR$/js/basics/window/windowTests.html" />
+        <option value="$PROJECT_DIR$/js/basics/getElementById/getElementsByTagName.html" />
+        <option value="$PROJECT_DIR$/js/basics/getElementBy/getElementById.html" />
+        <option value="$PROJECT_DIR$/js/basics/getElementBy/getElementByClass.html" />
+        <option value="$PROJECT_DIR$/js/basics/inheritance/inherit1.html" />
+        <option value="$PROJECT_DIR$/js/basics/inheritance/inheritance3.html" />
+        <option value="$PROJECT_DIR$/js/basics/inheritance/inheritance4.html" />
+        <option value="$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts" />
+        <option value="$PROJECT_DIR$/js/collection/jsMap.html" />
+        <option value="$PROJECT_DIR$/js/widgets/combBox/comboBox.html" />
+        <option value="$PROJECT_DIR$/js/widgets/rowTable/rowTable.html" />
+        <option value="$PROJECT_DIR$/js/widgets/combBox/test/comboBox.html" />
+        <option value="$PROJECT_DIR$/js/widgets/combBox/sample/comboBox.html" />
       </list>
     </option>
   </component>
@@ -218,11 +212,10 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -269,7 +262,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tab-component" />
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rowTable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -312,8 +375,18 @@
               <option name="myItemId" value="jsObjects_DOM_API" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="eclipse-libs" />
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,16 +400,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jsObjects_DOM_API" />
+              <option name="myItemId" value="toolbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toolbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Panel Klienta - nazwa.pl_files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,17 +447,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\php\Frontend\js\widgets\combBox" />
+      <recent name="C:\Projects\php\Frontend\jquery\lib" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\idea-libs" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\database" />
       <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\webSocket" />
-      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco\workers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\idea-libs\backup" />
-      <recent name="C:\Projects\php\Frontend\js\elementary\onmouse\onMouseOver2" />
-      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\geco" />
-      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl\webkit" />
-      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API\browser-engine-impl" />
+      <recent name="C:\Projects\php\Frontend\js\widgets\combBox\test" />
+      <recent name="C:\Projects\php\Frontend\js\basics" />
+      <recent name="C:\Projects\php\Frontend\js\jsObjects_DOM_API" />
+      <recent name="C:\Projects\php\Frontend\js\basics\loops" />
+      <recent name="C:\Projects\php\Frontend\js\basics\getElementById\tests" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.test">
@@ -438,16 +535,16 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25358325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2508269" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33085898" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -499,251 +596,155 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php/statements/foreach/foreach_1.php">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35355285" vertical-offset="0" max-vertical-offset="577">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/PDO/FETCH_CLASS/FETCH_CLASS.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/json/json_3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6296296" vertical-offset="0" max-vertical-offset="1407">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/json/json_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72021663" vertical-offset="0" max-vertical-offset="945">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/json/json_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14814815" vertical-offset="0" max-vertical-offset="567">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="https://static.dreamsadnetwork.com/chromeapp/det/det.js">
-      <provider selected="true" editor-type-id="httpFileEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uncommit/dropdownmenu/css/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+        <state vertical-scroll-proportion="-1.1068376" vertical-offset="1036" max-vertical-offset="1972">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uncommit/dropdownmenu/index.html">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.0" vertical-offset="416" max-vertical-offset="1326">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.33296582" vertical-offset="12397" max-vertical-offset="15946">
+          <caret line="747" column="11" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/DOMCore.js">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1271367" vertical-offset="17543" max-vertical-offset="18700">
-          <caret line="1094" column="0" selection-start-line="1094" selection-start-column="0" selection-end-line="1094" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/AJAX.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9636752" vertical-offset="1053" max-vertical-offset="2057">
-          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/XHR-cpp-impl-geco/LINK.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6192053" vertical-offset="0" max-vertical-offset="906">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/XHR-cpp-imp-webkit/XMLHttpRequest.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.276273" vertical-offset="255" max-vertical-offset="21845">
+        <state vertical-scroll-proportion="-0.03197354" vertical-offset="29" max-vertical-offset="4029">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="844" max-vertical-offset="2057">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="16.845646" vertical-offset="10527" max-vertical-offset="81617">
+          <caret line="1518" column="40" selection-start-line="1518" selection-start-column="23" selection-end-line="1518" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/baseBrowserLibrary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33225107" vertical-offset="37280" max-vertical-offset="91613">
+          <caret line="2220" column="9" selection-start-line="2220" selection-start-column="9" selection-end-line="2220" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1728922" vertical-offset="5905" max-vertical-offset="15946">
+          <caret line="412" column="19" selection-start-line="412" selection-start-column="19" selection-end-line="412" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/NewFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="680">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/database/Database.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="4216">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/XHR-cpp-impl-geco/nsXMLHttpRequest.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.103448" vertical-offset="462" max-vertical-offset="57035">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1584" max-vertical-offset="57035">
           <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/worker/Worker.cpp">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/worker/Worker.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3009">
+        <state vertical-scroll-proportion="0.01814301" vertical-offset="544" max-vertical-offset="3009">
           <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/webSocket/WebSocket.h">
+    <entry file="file://$PROJECT_DIR$/js/basics/objects/object.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2618">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="493">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/objects/object2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5456081" vertical-offset="0" max-vertical-offset="592">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/window/openAndCloseWindow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43074325" vertical-offset="0" max-vertical-offset="592">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/window/windowOpenNewOne.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/geco/database/Database.h">
+    <entry file="file://$PROJECT_DIR$/js/basics/window/windowRequestAnimationFrame.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5811966" vertical-offset="0" max-vertical-offset="1887">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/elementary/onmouse/onMouseOver2/onMouseOver.html">
+    <entry file="file://$PROJECT_DIR$/js/basics/window/windowRequestWithSleep.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14945056" vertical-offset="0" max-vertical-offset="910">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="33" />
-          <folding />
+        <state vertical-scroll-proportion="0.3158784" vertical-offset="0" max-vertical-offset="731">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/tab-component/tab1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/tab-component/tab2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+    <entry file="file://$PROJECT_DIR$/jquery/lib/jquery-1.8.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="1830" max-vertical-offset="15946">
-          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.75" vertical-offset="504" max-vertical-offset="15946">
-          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/E4X.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.508547" vertical-offset="0" max-vertical-offset="5372">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/lib.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33261105" vertical-offset="238577" max-vertical-offset="241349">
-          <caret line="14065" column="4" selection-start-line="14065" selection-start-column="4" selection-end-line="14065" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/tab-component/tab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.923077" vertical-offset="2133" max-vertical-offset="3043">
-          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/system.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41773504" vertical-offset="306" max-vertical-offset="24871">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6088841" vertical-offset="16540" max-vertical-offset="241570">
-          <caret line="1006" column="4" selection-start-line="1006" selection-start-column="4" selection-end-line="1006" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="156961">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/baseBrowserLibrary.js">
+    <entry file="file://$PROJECT_DIR$/jquery/lib/jquery-2.1.3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7627301" vertical-offset="2754" max-vertical-offset="91613">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="0.3327674" vertical-offset="155830" max-vertical-offset="156587">
+          <caret line="9178" column="18" selection-start-line="9178" selection-start-column="4" selection-end-line="9178" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/eclipse-libs/browserWindow.js">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10608">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="16093" max-vertical-offset="81617">
-          <caret line="968" column="30" selection-start-line="968" selection-start-column="30" selection-end-line="968" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/AJAX.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="2057">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/HTML5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="37854" max-vertical-offset="40001">
-          <caret line="2272" column="13" selection-start-line="2272" selection-start-column="13" selection-end-line="2272" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3349">
-          <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="7947" max-vertical-offset="16405">
+          <caret line="506" column="32" selection-start-line="506" selection-start-column="32" selection-end-line="506" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -756,66 +757,236 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/Nashorn.js">
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/browser-engine-impl/webkit/XHR-cpp-imp-webkit/XMLHttpRequest.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1972">
+        <state vertical-scroll-proportion="0.47887325" vertical-offset="612" max-vertical-offset="21845">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/loops/JS Breaks Continue/jslib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/EcmaScript.js">
+    <entry file="file://$PROJECT_DIR$/js/basics/loops/JS Breaks Continue/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.413794" vertical-offset="12397" max-vertical-offset="15946">
-          <caret line="747" column="11" selection-start-line="747" selection-start-column="9" selection-end-line="747" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/getElementBy/tests/NewFile2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/getElementBy/tests/newFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/window/windowTests.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.576923" vertical-offset="275" max-vertical-offset="867">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/getElementBy/tests/getElementById.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="592">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/lib/jquery-1.11.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="18477" max-vertical-offset="175780">
+          <caret line="1111" column="16" selection-start-line="1111" selection-start-column="16" selection-end-line="1111" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/getElementBy/getElementsByTagName.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4881757" vertical-offset="0" max-vertical-offset="592">
+          <caret line="17" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/getElementBy/getElementById.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="459">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/getElementBy/getElementByClass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.660473" vertical-offset="17" max-vertical-offset="646">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/inheritance/inherit1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.192308" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/inheritance/inheritance3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="102" max-vertical-offset="918">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/inheritance/inherit2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.8846154" vertical-offset="153" max-vertical-offset="867">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/inheritance/inheritance4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3445946" vertical-offset="102" max-vertical-offset="816">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/insertJS/externalFile/external.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/insertJS/externalFile/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/gfx/js_webkit.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/events/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1722973" vertical-offset="102" max-vertical-offset="1411">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/debug/consoleOutput.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/communicators/icq.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basics/communicators/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22972973" vertical-offset="0" max-vertical-offset="612">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/backup/lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2694215" vertical-offset="231309" max-vertical-offset="241570">
+          <caret line="13616" column="11" selection-start-line="13616" selection-start-column="11" selection-end-line="13616" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/toolbar/Panel Klienta - nazwa.pl_files/df1b8e426deee38e5f43ad9f70f13039.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028099174" vertical-offset="0" max-vertical-offset="14569">
+          <caret line="1" column="24319" selection-start-line="1" selection-start-column="24319" selection-end-line="1" selection-end-column="24319" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/collection/jsMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1722973" vertical-offset="0" max-vertical-offset="595">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.172414" vertical-offset="12414" max-vertical-offset="18700">
-          <caret line="751" column="3" selection-start-line="751" selection-start-column="3" selection-end-line="751" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMEvents.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.586206" vertical-offset="7947" max-vertical-offset="16405">
-          <caret line="506" column="32" selection-start-line="506" selection-start-column="32" selection-end-line="506" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMTraversalAndRange.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0" vertical-offset="29" max-vertical-offset="4029">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/AJAX.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="844" max-vertical-offset="2057">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.49838188" vertical-offset="3075" max-vertical-offset="18700">
+          <caret line="199" column="19" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DOMCore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7586207" vertical-offset="0" max-vertical-offset="18700">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="3177" max-vertical-offset="18700">
+          <caret line="199" column="19" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jsObjects_DOM_API/idea-libs/DHTML.js">
+    <entry file="file://$PROJECT_DIR$/js/widgets/rowTable/rowTable.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.845646" vertical-offset="10527" max-vertical-offset="81617">
-          <caret line="1518" column="40" selection-start-line="1518" selection-start-column="23" selection-end-line="1518" selection-end-column="40" />
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="1360">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/widgets/combBox/test/comboBox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.076923" vertical-offset="156" max-vertical-offset="1411">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/widgets/combBox/sample/comboBox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05743243" vertical-offset="0" max-vertical-offset="799">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding />
         </state>
       </provider>

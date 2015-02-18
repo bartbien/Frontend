@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+
+        div.combo-box
+        {
+            border: solid 1px black;
+            width: 210px;
+            padding: 10px;
+        }
+
+        button.btn-cb
+        {
+            background-image: url("btn.png");
+            width: 22px;
+            height: 22px;
+        }
+
+        button.btn-cb-onOpen
+        {
+            border: solid 1px black;
+            height: 200px;
+            width: 200px;
+        }
+
+        button.btn-cb-onClose
+        {
+
+        }
+
+
+    </style>
+
+</head>
+<body>
+
+    <div class="combo-box" id="cb">
+        <input type="text"/>
+        <button class="btn-cb"></button>
+    </div>
+
+    <script>
+
+        var hComboBox = document.getElementById('cb');
+
+
+        function ComboBox()
+        {
+            _ = this;
+
+            _.print = function()
+            {
+                console.log('test');
+            };
+
+            _.onOpen = function()
+            {
+
+            };
+
+            _.onClose = function()
+            {
+
+            };
+        };
+
+
+
+
+        new ComboBox().print();
+
+    </script>
+</body>
+</html>
